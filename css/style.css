@@ -934,3 +934,7 @@ img {
 .form-check-input:checked + .form-checkbox > .checked {
   opacity: 1;
 }
+
+.modal-fo {
+  fill: #31d0aa;
+}
